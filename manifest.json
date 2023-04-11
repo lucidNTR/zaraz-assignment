@@ -1,0 +1,7 @@
+{
+  "name": "Zaraz Assignment",
+  "namespace": "zaraz-assignment",
+  "description": "A Managed Component for making the internet better",
+  "icon": "assets/icon.svg",
+  "permissions": {}
+}
